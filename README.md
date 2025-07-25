@@ -1,5 +1,5 @@
 ### Hi there I'm Napat.👋
-I'm a 2nd year Computer Engineering student from Chulalongkorn University
+I'm a 3rd year Computer Engineering student from Chulalongkorn University
 
 ## 💻 Tech Stack
 ![Top Langs](https://github-readme-stats-b7nl.vercel.app/api/top-langs/?username=napat2224&langs_count=6&layout=donut)
